@@ -9,6 +9,22 @@ Begin VB.Form frmGithub
    ScaleHeight     =   3015
    ScaleWidth      =   4560
    StartUpPosition =   3  'Windows Default
+   Begin VB.CommandButton Command3 
+      Caption         =   "Command1"
+      Height          =   495
+      Left            =   1800
+      TabIndex        =   3
+      Top             =   1920
+      Width           =   1215
+   End
+   Begin VB.CommandButton Command2 
+      Caption         =   "Command1"
+      Height          =   495
+      Left            =   2160
+      TabIndex        =   2
+      Top             =   2520
+      Width           =   1215
+   End
    Begin VB.CommandButton Command1 
       Caption         =   "Command1"
       Height          =   495
